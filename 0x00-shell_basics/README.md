@@ -1,1 +1,1 @@
-Script to display current directory
+script to display contents
